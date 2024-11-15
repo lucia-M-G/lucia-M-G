@@ -17,7 +17,6 @@
 
 ### 👩‍💻 **Sobre mi**
 - 🎯 *Objectiu:* Crear solucions tecnològiques sostenibles i eficients.  
-- 📖 Actualment treballo en projectes de programació en **Java** i en anàlisi de dades per a prediccions climàtiques.  
 - ⚡ *Fun fact:* M'encanta el patinatge artístic i tot allò relacionat amb la creativitat.
 
 ---
@@ -39,30 +38,30 @@
 ---
 
 ## 🗂️ **Projectes destacats**
-### 🌍 [Predicció del canvi climàtic](https://github.com/luciaMartinez/climate-change-prediction)
-- **Descripció:** Projecte per analitzar cicles de temperatura i preveure el canvi climàtic.  
-- **Tecnologies:** Python, Matplotlib, NumPy  
+### 🌍 [Títol projecte1](https://github.com/luciaMartinez/urlprojecte1)
+- **Descripció:**
+- **Tecnologies:** Python, VisualCode.
 
-### 📚 [Gestor de biblioteques](https://github.com/luciaMartinez/library-manager)
-- **Descripció:** Aplicació en Java per gestionar préstecs i inventari d'una biblioteca.  
-- **Tecnologies:** Java, MySQL  
+### 📚 [Títol projecte2](https://github.com/luciaMartinez/urlprojecte2)
+- **Descripció:** 
+- **Tecnologies:** Java, MySQL.  
 
 ---
 
 ## 📊 **Estadístiques de GitHub**
 <p align="center">
-  <img alt="Gràfic de contribucions" src="https://ghchart.rshah.org/FF5733/luciaMartinez" width="600"/>
+  <img alt="Gràfic de contribucions" src="https://ghchart.rshah.org/FF5733/lucia-m-g" width="600"/>
 </p>
 <p align="center">
-  <img alt="Estadístiques" src="https://github-readme-stats.vercel.app/api?username=luciaMartinez&show_icons=true&theme=radical" width="400"/>
-  <img alt="Tecnologies més usades" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciaMartinez&layout=compact&theme=radical" width="400"/>
+  <img alt="Estadístiques" src="https://github-readme-stats.vercel.app/api?username=lucia-m-g&show_icons=true&theme=radical" width="400"/>
+  <img alt="Tecnologies més usades" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucia-m-g&layout=compact&theme=radical" width="400"/>
 </p>
 
 ---
 
 ## 📬 **Contacte**
 <p align="center">
-  🌐 [**Lloc web personal**](https://luciamartinez.dev)  
-  📧 [**Correu electrònic**](mailto:lucia.martinez@example.com)  
-  💼 [**LinkedIn**](https://linkedin.com/in/lucia-martinez)  
+  <p>🌐 [**Lloc web personal**](https://luciamartinez.com)</p>  
+  <p>📧 [**Correu electrònic**](mailto:lucia.martinez@gracia.lasalle.cat)</p>  
+  <p>💼 [**LinkedIn**](https://linkedin.com/in/)</p>  
 </p>
