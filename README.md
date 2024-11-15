@@ -1,7 +1,6 @@
 <h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Lucía Martínez</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauragift21&label=Profile%20views&color=0e75b6&style=flat" alt="ProfileViewsImg" />
-</p>
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/lucia-m-g?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 
 ✨ Welcome to my profile! I am Lucía Martínez, a student and developer in training, focused on expanding my knowledge in software development, algorithms and modern programming tools. I love learning and facing new technological challenges.
 
@@ -13,70 +12,47 @@
 
 - ⚡ Fun fact: I enjoy figure skating and creativity.
 
-##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
- 
- <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lauragift21" alt="Gift's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lauragift21&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
-</div>
+![Header](https://via.placeholder.com/800x200.png?text=Welcome+to+my+portfolio)
 
-**Expand to view**
+## 📄 **Sobre mi**
+Sóc una desenvolupadora apassionada per la tecnologia i la resolució de problemes. Actualment, treballo en projectes relacionats amb la programació en Java i prediccions climàtiques.  
+🎯 **Objectiu:** Crear solucions tecnològiques sostenibles i eficients.
 
-<summary><b>:zap: GitHub Profile Stat</b></summary>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lauragift21&show_icons=true" />
+---
 
-### 🌟 Intereses:
-- Desarrollo de aplicaciones en Java y Python  
-- Gestión de proyectos con Git y GitHub  
-- Creación de soluciones innovadoras para problemas reales  
-- Diseño de interfaces intuitivas y funcionales  
+## 🛠️ **Habilitats**
+- **Llenguatges de programació:**  
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-<hr>
+- **Tecnologies:**  
+  ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<h2 align="center"> 🔧 Habilidades</h2>
-<p align="center">
-  <p>Lenguajes: Java, Python, HTML/CSS</p>
-  <p>Control de versiones: Git y GitHub</p>
-  <p>Resolución de problemas y pensamiento lógico</p>
-</p>
+---
 
+## 🗂️ **Projectes destacats**
+### [🌍 Predicció del canvi climàtic](https://github.com/luciaMartinez/climate-change-prediction)
+- **Descripció:** Projecte per analitzar cicles de temperatura i preveure el canvi climàtic.
+- **Tecnologies:** Python, Matplotlib, NumPy
 
-<hr>
+### [📚 Gestor de biblioteques](https://github.com/luciaMartinez/library-manager)
+- **Descripció:** Aplicació en Java per gestionar préstecs i inventari d'una biblioteca.
+- **Tecnologies:** Java, MySQL
 
-<h2 align="center"> 🚀 Objective</h2>
-<p align="center">
-  <samp> Consolidate my career as a developer and contribute to projects that have a positive impact on society.</samp>
-</p>
+---
 
-<hr>
+## 📈 **Estadístiques de GitHub**
+![Gràfic de contribucions](https://ghchart.rshah.org/FF5733/luciaMartinez)  
+![Estadístiques](https://github-readme-stats.vercel.app/api?username=luciaMartinez&show_icons=true&theme=radical)
 
-<h2 align="center"> 🔭 Tools of Trade</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/tailwind-css%20-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
-</p>
-<p align="center">TailwindCSS, Python, Docker, Kubernetes, Rancher, TravisCI, Git, Github, Bitbucket, Apache, Nginx, Vagrant, Ansible, Jenkins, Azure.</p>
+---
 
-<hr>
-
-<h2 align="center">💬 My Blog Articles</h2>
-<p align="center" align='right'>
-  <a target="_blank"href="https://dev.to/ileriayo"><img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://medium.com/@ileriayoadebiyi"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-</p>
-
-<hr>
-
-<h2  align="center">📫 Reach me on</h2>
-<p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/ileriayo-adebiyi-0328b1101/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://twitter.com/ileriayooo"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-<hr>
-
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
-
-<!-- THE END -->
+## 📬 **Contacte**
+- 🌐 [Lloc web personal](https://luciamartinez.dev)
+- 📧 [Correu electrònic](mailto:lucia.martinez@example.com)
+- 💼 [LinkedIn](https://linkedin.com/in/lucia-martinez)
