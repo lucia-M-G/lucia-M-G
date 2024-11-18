@@ -1,7 +1,4 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
-  Hola! Sóc Lucía Martínez  
-</h1>
+[![MasterHead](![banner](https://github.com/user-attachments/assets/f4577bca-613f-4a57-94af-10297b9349ea))](https://github.com/lucia-M-G)
 
 <p align="center">
   <img alt="followers" title="Segueix-me a GitHub" src="https://img.shields.io/github/followers/luciaMartinez?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
