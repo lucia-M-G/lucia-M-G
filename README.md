@@ -1,4 +1,4 @@
-[![MasterHead](![banner](https://github.com/user-attachments/assets/f4577bca-613f-4a57-94af-10297b9349ea))](https://github.com/lucia-M-G)
+[![MasterHead](https://github.com/user-attachments/assets/f4577bca-613f-4a57-94af-10297b9349ea)](https://github.com/lucia-M-G)
 
 <p align="center">
   <img alt="followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/luciaMartinez?color=fed7aa&style=for-the-badge&logo=github&label=Follow" style= "height: 23px"/>
