@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/lucia-M-G/lucia-M-G/blob/main/assets/banner.png)](https://github.com/lucia-M-G)
 
-<img align="right" alt="GIF" src="" width="400"/>
+<img align="right" alt="GIF" src="https://github.com/lucia-M-G/lucia-M-G/blob/main/assets/sun.gif" width="400"/>
 
 ### 👩‍💻 **Sobre mi**
 - 🎯 *Objectiu:* Crear solucions tecnològiques sostenibles i eficients.  
