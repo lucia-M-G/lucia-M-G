@@ -1,11 +1,6 @@
-[![MasterHead](https://github.com/user-attachments/assets/f4577bca-613f-4a57-94af-10297b9349ea)](https://github.com/lucia-M-G)
+[![MasterHead](https://github.com/lucia-M-G/lucia-M-G/blob/main/assets/banner.png)](https://github.com/lucia-M-G)
 
-<p align="center">
-  <img alt="followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/luciaMartinez?color=fed7aa&style=for-the-badge&logo=github&label=Follow" style= "height: 23px"/>
-  <img alt="followers" title="Visits of my profile" src="https://visitcount.itsvg.in/api?id=lucia-M-G&icon=0&color=7"/>
-</p>
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+<img align="right" alt="GIF" src="" width="400"/>
 
 ### 👩‍💻 **Sobre mi**
 - 🎯 *Objectiu:* Crear solucions tecnològiques sostenibles i eficients.  
