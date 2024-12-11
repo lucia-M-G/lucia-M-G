@@ -9,7 +9,7 @@ Feel free to explore my projects, and if you have any questions or are intereste
 
 <img align="right" alt="GIF" src="https://github.com/lucia-M-G/lucia-M-G/blob/main/assets/sun.gif" width="400"/>
 
-## 🛠️ Tecnic skills
+## ✨ Tecnic skills
 ### Programmin languages:
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -17,7 +17,7 @@ Feel free to explore my projects, and if you have any questions or are intereste
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Tools:
+### ✨ Tools:
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -25,18 +25,18 @@ Feel free to explore my projects, and if you have any questions or are intereste
 
 ---
 
-## 🗂️ Highlighted projects
-### 🌍 [Títol projecte1](https://github.com/luciaMartinez/urlprojecte1)
+## ✨ Highlighted projects
+### 🔷 [Títol projecte1](https://github.com/luciaMartinez/urlprojecte1)
 - **Description:**
 - **Tecnologies:** Python, VisualCode.
 
-### 📚 [Títol projecte2](https://github.com/luciaMartinez/urlprojecte2)
+### 🔶 [Títol projecte2](https://github.com/luciaMartinez/urlprojecte2)
 - **Description:** 
 - **Tecnologies:** Java, MySQL.  
 
 ---
 
-## 📊 **GitHub Statistics**
+## ✨ **GitHub Statistics**
 <p align="center">
   <img alt="Contibuitions" src="https://ghchart.rshah.org/FF5733/lucia-m-g" width="600"/>
 </p>
@@ -47,17 +47,24 @@ Feel free to explore my projects, and if you have any questions or are intereste
 
 ---
 
-## 📬 Contact
+## ✨ Contact
 <p align="center">
   <p>🌐 [**Lloc web personal**](https://luciamartinez.com)</p>  
   <p>📧 [**Correu electrònic**](mailto:lucia.martinez@gracia.lasalle.cat)</p>  
   <p>💼 [**LinkedIn**](https://linkedin.com/in/)</p>  
 </p>
 
-## 🌐 Social Media:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/LucíaMartínezGutiérrez) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/LuMaGuu) 
+## ✨ Social Media:
+<p align="center">
+  <a href="https://linkedin.com/in/LucíaMartínezGutiérrez">
+    <img src="https://img.shields.io/badge/LinkedIn-%23FF7F00.svg?logo=linkedin&logoColor=white" alt="LinkedIn" width="150" />
+  </a>
+  <a href="https://pinterest.com/LuMaGuu">
+    <img src="https://img.shields.io/badge/Pinterest-%23FF7F00.svg?logo=Pinterest&logoColor=white" alt="Pinterest" width="150" />
+  </a>
+</p>
 
-## 🏆 GitHub Trophies
+## ✨ GitHub Trophies
 <p align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=lucia-M-G&theme=buddhism&margin-w=10">
     <img src="https://github-profile-trophy.vercel.app/?username=lucia-M-G&theme=buddhism&margin-w=10" alt="Trophy" />
