@@ -41,8 +41,8 @@ Feel free to explore my <strong>projects</strong>, and if you have any <strong>q
   <img alt="Contibuitions" src="https://ghchart.rshah.org/FF5733/lucia-m-g" width="600"/>
 </p>
 <p align="center">
-  <img alt="Statistics" src="https://github-readme-stats.vercel.app/api?username=lucia-m-g&show_icons=true&theme=radical" width="400"/>
-  <img alt="Most used technologies" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucia-m-g&layout=compact&theme=radical" width="400"/>
+  <img alt="Statistics" src="https://github-readme-stats.vercel.app/api?username=lucia-M-G&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=ffbd59&show_icons=true" width="400"/>
+  <img alt="Most Used Technologies" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucia-M-G&layout=donut&title_color=ffffff&text_color=ffffff&bg_color=ffbd59" width="273"/>
 </p>
 
 ---
@@ -60,7 +60,7 @@ Feel free to explore my <strong>projects</strong>, and if you have any <strong>q
     <img src="https://github.com/lucia-M-G/lucia-M-G/blob/main/assets/Linkedin.png" alt="LinkedIn" width="120" />
   </a>
   <a href="https://pinterest.com/LuMaGuu">
-    <img src="https://github.com/lucia-M-G/lucia-M-G/blob/main/assets/Pinterest.png" alt="Pinterest" width="120" />
+    <img src="https://github.com/lucia-M-G/lucia-M-G/blob/main/assets/Pinterest.png" alt="Pinterest" width="132" />
   </a>
 </p>
 
