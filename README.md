@@ -57,10 +57,10 @@ Feel free to explore my <strong>projects</strong>, and if you have any <strong>q
 ## ✨ Social Media:
 <p align="center">
   <a href="https://linkedin.com/in/LucíaMartínezGutiérrez">
-    <img src="" alt="LinkedIn" width="100" />
+    <img src="https://github.com/lucia-M-G/lucia-M-G/blob/main/assets/Linkedin.png" alt="LinkedIn" width="120" />
   </a>
   <a href="https://pinterest.com/LuMaGuu">
-    <img src="" alt="Pinterest" width="100" />
+    <img src="https://github.com/lucia-M-G/lucia-M-G/blob/main/assets/Pinterest.png" alt="Pinterest" width="120" />
   </a>
 </p>
 
