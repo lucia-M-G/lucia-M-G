@@ -47,13 +47,6 @@ Feel free to explore my <strong>projects</strong>, and if you have any <strong>q
 
 ---
 
-## ✨ Contact
-<p align="center">
-  <p>🌐 [**Lloc web personal**](https://luciamartinez.com)</p>  
-  <p>📧 [**Correu electrònic**](mailto:lucia.martinez@gracia.lasalle.cat)</p>  
-  <p>💼 [**LinkedIn**](https://linkedin.com/in/)</p>  
-</p>
-
 ## ✨ Social Media:
 <p align="center">
   <a href="https://linkedin.com/in/LucíaMartínezGutiérrez">
@@ -61,6 +54,9 @@ Feel free to explore my <strong>projects</strong>, and if you have any <strong>q
   </a>
   <a href="https://pinterest.com/LuMaGuu">
     <img src="https://github.com/lucia-M-G/lucia-M-G/blob/main/assets/Pinterest.png" alt="Pinterest" width="132" />
+  </a>
+    <a href="  lucia.martinez@gracia.lasalle.cat">
+    <img src="https://github.com/lucia-M-G/lucia-M-G/blob/main/assets/Gmail.png" alt="Gmail" width="120" />
   </a>
 </p>
 
