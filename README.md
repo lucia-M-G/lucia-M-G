@@ -1,10 +1,10 @@
 [![MasterHead](https://github.com/lucia-M-G/lucia-M-G/blob/main/assets/banner.png)](https://github.com/lucia-M-G)
 
 <p align="center">
-  I'm a passionate tech enthusiast focused on creating innovative solutions. I am currently studying Development of Multiplatform Applications (CFGS DAM) at La Salle Gràcia, where I specialize in multiplatform software development. I'm driven by the opportunity to contribute to projects that combine technology with creativity, so I am always looking for opportunities to learn and grow.
+  I'm a <strong>passionate tech enthusiast</strong> focused on creating <strong>innovative solutions</strong>. I am currently studying <strong>Development of Multiplatform Applications</strong> (CFGS DAM) at La Salle Gràcia, where I specialize in multiplatform software development. I'm driven by the opportunity to contribute to projects that combine technology with <strong>creativity</strong>, so I am always looking for opportunities to learn and grow.
 </p>
 <p align="center">
-Feel free to explore my projects, and if you have any questions or are interested in collaborating, don't hesitate to reach out!
+Feel free to explore my <strong>projects</strong>, and if you have any <strong>questions</strong> or are interested in collaborating, don't hesitate to reach out!
 </p>
 
 <img align="right" alt="GIF" src="https://github.com/lucia-M-G/lucia-M-G/blob/main/assets/sun.gif" width="400"/>
@@ -57,10 +57,10 @@ Feel free to explore my projects, and if you have any questions or are intereste
 ## ✨ Social Media:
 <p align="center">
   <a href="https://linkedin.com/in/LucíaMartínezGutiérrez">
-    <img src="https://img.shields.io/badge/LinkedIn-%23FF7F00.svg?logo=linkedin&logoColor=white" alt="LinkedIn" width="150" />
+    <img src="" alt="LinkedIn" width="100" />
   </a>
   <a href="https://pinterest.com/LuMaGuu">
-    <img src="https://img.shields.io/badge/Pinterest-%23FF7F00.svg?logo=Pinterest&logoColor=white" alt="Pinterest" width="150" />
+    <img src="" alt="Pinterest" width="100" />
   </a>
 </p>
 
