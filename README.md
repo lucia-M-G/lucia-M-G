@@ -49,7 +49,7 @@ Feel free to explore my <strong>projects</strong>, and if you have any <strong>q
 
 ## ✨ Social Media:
 <p align="center">
-  <a href="https://linkedin.com/in/LucíaMartínezGutiérrez">
+  <a href="https://www.linkedin.com/in/luc%C3%ADa-mart%C3%ADnez-guti%C3%A9rrez-3b25281b7/?trk=opento_sprofile_details&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BAAX0wClnSPaHZZVn4yYWgA%3D%3D">
     <img src="https://github.com/lucia-M-G/lucia-M-G/blob/main/assets/Linkedin.png" alt="LinkedIn" width="120" />
   </a>
   <a href="https://pinterest.com/LuMaGuu">
