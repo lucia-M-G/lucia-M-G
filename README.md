@@ -55,7 +55,7 @@ Feel free to explore my <strong>projects</strong>, and if you have any <strong>q
   <a href="https://pinterest.com/LuMaGuu">
     <img src="https://github.com/lucia-M-G/lucia-M-G/blob/main/assets/Pinterest.png" alt="Pinterest" width="132" />
   </a>
-    <a href="  lucia.martinez@gracia.lasalle.cat">
+  <a href="mailto:lucia.martinez@gracia.lasalle.cat">
     <img src="https://github.com/lucia-M-G/lucia-M-G/blob/main/assets/Email.png" alt="Gmail" width="120" />
   </a>
 </p>
