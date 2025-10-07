@@ -49,14 +49,20 @@ Feel free to explore my <strong>projects</strong>, and if you have any <strong>q
 
 ## ✨ Social Media:
 <p align="center">
-  <a href="https://www.linkedin.com/in/luc%C3%ADa-mart%C3%ADnez-guti%C3%A9rrez-3b25281b7/?trk=opento_sprofile_details&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BAAX0wClnSPaHZZVn4yYWgA%3D%3D">
-    <img src="https://github.com/lucia-M-G/lucia-M-G/blob/main/assets/Linkedin.png" alt="LinkedIn" width="120" />
+  <a href="https://discord.gg/lucia_m_g">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://instagram.com/lucia.martnz">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://www.linkedin.com/in/luc%C3%ADa-mart%C3%ADnez-guti%C3%A9rrez-3b25281b7/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="https://pinterest.com/LuMaGuu">
-    <img src="https://github.com/lucia-M-G/lucia-M-G/blob/main/assets/Pinterest.png" alt="Pinterest" width="132" />
+    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="mailto:lucia.martinez@gracia.lasalle.cat?subject=Nuevo%20Mensaje&body=Hola%20Lucía%2C%0A%0A">
-    <img src="https://github.com/lucia-M-G/lucia-M-G/blob/main/assets/Email.png" alt="Gmail" width="120" />
+  <a href="mailto:luciamagu03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </p>
 
@@ -64,7 +70,5 @@ Feel free to explore my <strong>projects</strong>, and if you have any <strong>q
 
 ## ✨ GitHub Trophies
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=lucia-M-G&theme=buddhism&margin-w=10">
-    <img src="https://github-profile-trophy.vercel.app/?username=lucia-M-G&theme=buddhism&margin-w=10" alt="Trophy" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=lucia-M-G&theme=buddhism" alt="Trophies" />
 </p>
