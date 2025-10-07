@@ -49,8 +49,8 @@ Feel free to explore my <strong>projects</strong>, and if you have any <strong>q
   <img alt="Contibuitions" src="https://ghchart.rshah.org/FF5733/lucia-m-g" width="600"/>
 </p>
 <p align="center">
-  <img alt="Statistics" src="https://github-readme-stats.vercel.app/api?username=lucia-M-G&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=ffbd59&show_icons=true" width="400"/>
-  <img alt="Most Used Technologies" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucia-M-G&layout=donut&title_color=ffffff&text_color=ffffff&bg_color=ffbd59" width="273"/>
+  <img alt="Statistics" src="https://github-readme-stats.vercel.app/api?username=lucia-M-G&theme=city_lights&hide_border=false&include_all_commits=false&count_private=false" width="400"/>
+  <img alt="Most Used Technologies" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucia-M-G&theme=city_lights&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="273"/>
 </p>
 
 ---
