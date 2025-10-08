@@ -78,5 +78,6 @@ Feel free to explore my <strong>projects</strong>, and if you have any <strong>q
 
 ## ✨ GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lucia-M-G&theme=buddhism" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=lucia-M-G&theme=dark_lover&margin-w=8&margin-h=5" alt="Trophies" />
 </p>
+
