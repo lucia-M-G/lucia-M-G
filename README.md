@@ -34,7 +34,7 @@ Feel free to explore my <strong>projects</strong>, and if you have any <strong>q
 ---
 
 ## ✨ Highlighted projects
-### 🍬 [Cotton Candy BCN]([https://github.com/luciaMartinez/urlprojecte1](https://github.com/lucia-M-G/CottonCandyBCN.git))
+### 🍬 [Cotton Candy BCN](https://github.com/lucia-M-G/CottonCandyBCN.git)
 - **Description:** Complete commercial management module developed in Odoo 17 that implements a specialized sales system. It was developed as a practical example to prove skills in developing enterprise Odoo modules.
 - **Tecnologies:** Python, VisualCode, Odoo.
 
