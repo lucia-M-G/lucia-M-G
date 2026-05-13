@@ -38,8 +38,8 @@ Feel free to explore my <strong>projects</strong>, and if you have any <strong>q
 - **Description:** Complete commercial management module developed in Odoo 17 that implements a specialized sales system. It was developed as a practical example to prove skills in developing enterprise Odoo modules.
 - **Tecnologies:** Python, VisualCode, Odoo.
 
-### 👨🏻‍🔧 [Mario Bros - Nivel 1](https://github.com/lucia-M-G/MarioBros_Level1.git)
-- **Description:** Nivell inspirat en Super Mario Bros, amb interfaç gráfica grácies a la biblioteca PyGame.
+### 👨🏻‍🔧 [Mario Bros - Level 1](https://github.com/lucia-M-G/MarioBros_Level1.git)
+- **Description:** Level inspired by Super Mario Bros, with graphical interface thanks to the PyGame library.
 - **Tecnologies:** Python, PyGame, IntelliJ.
 
 ---
