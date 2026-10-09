@@ -34,13 +34,17 @@ Feel free to explore my <strong>projects</strong>, and if you have any <strong>q
 ---
 
 ## ✨ Highlighted projects
+### 🌱 [IAs environmental impact - Spring Boot API](https://github.com/lucia-M-G/practica-springboot.git)
+- **Description:** REST API developed with Spring Boot and MySQL that tracks AI query sessions and calculates their environmental impact (CO₂ emissions and kWh consumption). Includes user reports, CSV exports, and efficiency rankings.
+- **Technologies:** Java, Spring Boot, MySQL, Spring JDBC, JUnit, Mockito, Postman.
+
+### 🎤 [Karaoke App](https://github.com/lucia-M-G/karaoke-app.git)
+- **Description:** Android application built with Jetpack Compose following MVVM architecture. Features song lyric search, 30s audio previews, and local favorites management with offline storage.
+- **Technologies:** Kotlin, Jetpack Compose, Room DB, Retrofit, REST APIs (iTunes & LRCLib).
+
 ### 🍬 [Cotton Candy BCN](https://github.com/lucia-M-G/CottonCandyBCN.git)
 - **Description:** Complete commercial management module developed in Odoo 17 that implements a specialized sales system. It was developed as a practical example to prove skills in developing enterprise Odoo modules.
-- **Tecnologies:** Python, VisualCode, Odoo.
-
-### 👨🏻‍🔧 [Mario Bros - Level 1](https://github.com/lucia-M-G/MarioBros_Level1.git)
-- **Description:** Level inspired by Super Mario Bros, with graphical interface thanks to the PyGame library.
-- **Tecnologies:** Python, PyGame, IntelliJ.
+- **Technologies:** Python, Visual Studio Code, Odoo.
 
 ---
 
